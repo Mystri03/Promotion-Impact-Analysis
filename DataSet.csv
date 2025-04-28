@@ -1,0 +1,251 @@
+Age_Group,Visit_Frequency,Monthly_Spending,Purchase_Factors,Seeks_Discounts,Overpurchase,Compares_Prices,Believes_Price_Inflation,Shopping_Time,Switch_for_Discount,Buys_Essentials_No_Discount,Satisfaction_Level,Discount_Source,Discount_Type,Discounted_Category,Discount_Source_Count,Discounted_Category_Count
+18-24,Once a month,1500,Discounts & Promotions,Yes,No,Yes,Maybe,Anytime,Yes,Maybe,5,Online Ads,Cashback Offers,Groceries,1,2
+18-24,Twice a month,3500,Product Quality,Yes,Yes,Yes,Yes,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,4
+18-24,Twice a week,7500,Location & Service,Maybe,No,No,Maybe,Mid,No,No,4,Traditional Media,Cashback Offers,Processed Food,1,1
+25-34,Twice a month,750,Discounts & Promotions,No,No,No,No,End,Yes,No,3,Direct Marketing,Buy One Get One Free,Groceries,1,5
+35-44,Twice a week,7500,Price,Maybe,No,No,Maybe,Start,Maybe,Maybe,3,Direct Marketing,Loyalty Rewards,Processed Food,1,1
+18-24,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,End,Yes,Yes,2,Online Ads,Cashback Offers,Groceries,1,1
+18-24,Once a week,1500,Freshness of Items,Maybe,Yes,Yes,Maybe,Mid,Yes,Yes,5,Online Ads,Loyalty Rewards,Groceries,1,5
+55+,Once a month,750,Discounts & Promotions,Yes,No,Yes,Yes,Start,Yes,Maybe,2,Traditional Media,Cashback Offers,Groceries,1,1
+35-44,Once a month,7500,Freshness of Items,Maybe,No,No,Maybe,Anytime,Maybe,Maybe,2,Online Ads,Buy One Get One Free,Essentials,1,2
+45-54,Twice a week,7500,Freshness of Items,Yes,No,No,Yes,Start,Yes,Yes,1,Direct Marketing,Cashback Offers,Processed Food,1,1
+55+,Daily,3500,Freshness of Items,Maybe,No,No,No,End,Maybe,Maybe,2,Traditional Media,Flat Discount,Groceries,1,1
+45-54,Twice a week,1500,Product Quality,Maybe,No,Sometimes,Maybe,Mid,No,No,2,Traditional Media,Loyalty Rewards,Processed Food,1,1
+45-54,Daily,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Once a month,3500,Product Quality,Maybe,Yes,Sometimes,Maybe,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Essentials,1,1
+18-24,Daily,750,Product Quality,Maybe,No,Yes,Maybe,End,Maybe,Maybe,1,Traditional Media,Loyalty Rewards,Processed Food,1,1
+18-24,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,End,Maybe,No,4,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Twice a month,1500,Location & Service,Maybe,No,Sometimes,No,Start,Yes,No,5,Online Ads,Flat Discount,Processed Food,1,2
+18-24,Once a month,1500,Discounts & Promotions,Maybe,No,Yes,Yes,Mid,No,No,4,Online Ads,Buy One Get One Free,Processed Food,1,2
+35-44,Twice a month,3500,Freshness of Items,Yes,Yes,Sometimes,Maybe,Anytime,Yes,No,5,Online Ads,Buy One Get One Free,Processed Food,1,3
+35-44,Once a month,7500,Discounts & Promotions,Yes,Yes,Sometimes,Yes,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Once a month,3500,Discounts & Promotions,Yes,No,Yes,No,End,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,3
+45-54,Twice a month,1500,Price,Yes,Yes,Sometimes,Yes,Anytime,Maybe,No,3,Online Ads,Buy One Get One Free,Processed Food,1,3
+18-24,Once a month,3500,Discounts & Promotions,Maybe,Yes,No,Maybe,Anytime,Maybe,Yes,4,Online Ads,Buy One Get One Free,Processed Food,1,2
+55+,Once a month,3500,Discounts & Promotions,Maybe,Yes,Sometimes,Maybe,Mid,Yes,Yes,5,Traditional Media,Cashback Offers,Processed Food,1,2
+45-54,Twice a week,7500,Location & Service,No,Yes,No,No,Anytime,No,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,1
+45-54,Twice a month,7500,Freshness of Items,Yes,Yes,Yes,Maybe,Anytime,No,No,4,Online Ads,Loyalty Rewards,Groceries,1,2
+25-34,Once a month,7500,Location & Service,Maybe,Yes,Sometimes,Yes,End,Maybe,Yes,3,Online Ads,Flat Discount,Groceries,1,5
+35-44,Twice a month,3500,Discounts & Promotions,Yes,No,Yes,Maybe,Anytime,Yes,Maybe,4,Online Ads,Cashback Offers,Groceries,1,5
+25-34,Daily,7500,Product Quality,Maybe,Yes,Sometimes,Maybe,Anytime,Yes,Yes,4,Online Ads,Flat Discount,Processed Food,1,1
+45-54,Once a month,7500,Freshness of Items,Maybe,Yes,Sometimes,Maybe,End,No,No,2,Direct Marketing,Loyalty Rewards,Groceries,1,2
+25-34,Once a week,1500,Price,No,Yes,Sometimes,Yes,Mid,Maybe,Maybe,4,Direct Marketing,Buy One Get One Free,Groceries,1,2
+35-44,Once a week,750,Discounts & Promotions,Yes,Yes,Sometimes,Yes,Mid,Yes,Yes,4,Online Ads,Cashback Offers,Processed Food,1,2
+55+,Twice a week,750,Product Quality,Maybe,No,Sometimes,Maybe,End,Maybe,No,1,Direct Marketing,Flat Discount,Groceries,1,3
+18-24,Once a month,1500,Discounts & Promotions,Maybe,Yes,Yes,Yes,Anytime,Yes,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,3
+25-34,Twice a month,3500,Price,Yes,Yes,Sometimes,Maybe,Mid,Maybe,No,4,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,Yes,4,Online Ads,Cashback Offers,Groceries,1,4
+25-34,Twice a week,1500,Product Quality,Yes,Yes,Yes,Maybe,Start,Yes,No,1,Online Ads,Cashback Offers,Groceries,1,2
+18-24,Twice a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,2
+18-24,Twice a month,7500,Freshness of Items,Yes,Yes,Yes,Maybe,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,5
+25-34,Once a week,1500,Price,Yes,No,Sometimes,Yes,Start,Yes,No,4,Online Ads,Flat Discount,Groceries,1,5
+35-44,Once a month,3500,Price,Yes,Yes,Yes,Yes,End,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Twice a month,7500,Location & Service,Yes,Yes,Yes,Maybe,Mid,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,3
+35-44,Twice a week,1500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,3
+45-54,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Yes,Maybe,3,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,Mid,Yes,Maybe,5,Online Ads,Cashback Offers,Groceries,1,5
+55+,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Mid,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+25-34,Twice a month,7500,Price,Yes,Yes,Yes,Yes,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+55+,Once a month,3500,Product Quality,Yes,Yes,Yes,Yes,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+25-34,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+18-24,Once a month,3500,Discounts & Promotions,Yes,Yes,Sometimes,Maybe,Start,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Once a week,750,Location & Service,Yes,Yes,Yes,Yes,Mid,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,3500,Price,Maybe,Yes,Yes,Yes,Mid,Yes,No,3,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Once a week,1500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Maybe,Maybe,5,Online Ads,Cashback Offers,Processed Food,1,1
+45-54,Twice a week,1500,Product Quality,Maybe,Yes,Yes,Yes,Anytime,Maybe,Yes,3,Online Ads,Cashback Offers,Groceries,1,3
+45-54,Twice a week,3500,Product Quality,Maybe,Yes,Sometimes,Maybe,Anytime,Maybe,No,4,Online Ads,Cashback Offers,Groceries,1,3
+55+,Once a month,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,End,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Twice a week,7500,Product Quality,Maybe,Yes,Sometimes,Maybe,Mid,Maybe,Yes,5,Online Ads,Cashback Offers,Processed Food,1,2
+25-34,Twice a month,3500,Freshness of Items,Yes,Yes,Yes,Yes,Start,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Once a month,3500,Discounts & Promotions,Maybe,Yes,Yes,Yes,Mid,Yes,No,3,Traditional Media,Cashback Offers,Groceries,1,3
+35-44,Twice a week,7500,Location & Service,Maybe,Yes,Yes,Yes,End,No,No,5,Direct Marketing,Buy One Get One Free,Processed Food,1,3
+18-24,Once a week,1500,Freshness of Items,Yes,No,Sometimes,Yes,Anytime,Maybe,Yes,3,Online Ads,Buy One Get One Free,Essentials,1,1
+18-24,Twice a week,1500,Product Quality,Maybe,No,Sometimes,Maybe,Mid,Yes,Yes,5,Direct Marketing,Loyalty Rewards,Processed Food,1,1
+18-24,Once a month,3500,Price,No,No,Yes,Maybe,End,Maybe,Maybe,5,Direct Marketing,Buy One Get One Free,Essentials,1,1
+35-44,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Yes,No,3,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Once a month,3500,Freshness of Items,Maybe,Yes,Yes,Maybe,Mid,No,Maybe,5,Online Ads,Cashback Offers,Groceries,1,2
+18-24,Once a month,3500,Freshness of Items,Yes,Yes,Yes,Maybe,Mid,No,Maybe,5,Online Ads,Cashback Offers,Processed Food,1,3
+35-44,Once a week,750,Location & Service,No,No,Sometimes,Maybe,Start,Yes,No,3,Online Ads,Buy One Get One Free,Groceries,1,3
+45-54,Once a week,750,Location & Service,Yes,No,Sometimes,Yes,End,No,No,2,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Once a week,1500,Price,Maybe,Yes,Yes,Yes,Anytime,Yes,No,1,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a week,1500,Freshness of Items,Maybe,Yes,Yes,No,Mid,Yes,Maybe,2,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,7500,Product Quality,Yes,Yes,Sometimes,Maybe,Anytime,Yes,Yes,4,Online Ads,Cashback Offers,Groceries,1,3
+55+,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,4
+35-44,Once a week,750,Location & Service,Maybe,No,Yes,No,Anytime,Maybe,Yes,5,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Yes,Maybe,5,Online Ads,Cashback Offers,Processed Food,1,1
+35-44,Twice a week,3500,Location & Service,Maybe,Yes,Yes,Yes,Start,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,1
+25-34,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Twice a week,3500,Freshness of Items,Maybe,Yes,Sometimes,Maybe,Mid,Yes,Yes,1,Online Ads,Buy One Get One Free,Processed Food,1,2
+35-44,Twice a month,7500,Price,Maybe,Yes,Sometimes,Yes,Anytime,Maybe,Yes,5,Direct Marketing,Cashback Offers,Processed Food,1,3
+45-54,Once a month,1500,Freshness of Items,Maybe,No,Sometimes,Maybe,Mid,Maybe,Maybe,3,Online Ads,Flat Discount,Processed Food,1,1
+55+,Once a month,750,Location & Service,Yes,Yes,Yes,Yes,End,Yes,No,5,Direct Marketing,Cashback Offers,Groceries,1,2
+25-34,Once a week,750,Product Quality,Maybe,Yes,No,No,Mid,Maybe,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,5
+25-34,Twice a month,3500,Product Quality,Yes,Yes,Yes,Yes,Mid,Yes,Yes,4,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,3500,Discounts & Promotions,Yes,No,Yes,Yes,Mid,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,2
+25-34,Twice a month,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Twice a week,3500,Freshness of Items,Maybe,Yes,Yes,Maybe,End,Yes,Yes,5,Direct Marketing,Buy One Get One Free,Processed Food,1,3
+25-34,Once a month,3500,Freshness of Items,No,No,Yes,Maybe,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,3
+45-54,Once a month,3500,Location & Service,Maybe,No,Sometimes,Maybe,Start,Yes,No,4,Online Ads,Flat Discount,Groceries,1,4
+18-24,Once a week,1500,Product Quality,No,No,Sometimes,No,Mid,No,Yes,5,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Once a week,1500,Price,No,No,Sometimes,No,Mid,No,Yes,3,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Twice a week,750,Discounts & Promotions,No,No,No,Maybe,End,Maybe,Maybe,4,Traditional Media,Cashback Offers,Groceries,1,3
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,End,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,2
+35-44,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Once a month,1500,Product Quality,No,No,Yes,Yes,Mid,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Once a month,1500,Price,No,No,Sometimes,Maybe,End,No,No,3,Direct Marketing,Buy One Get One Free,Essentials,1,1
+35-44,Once a week,3500,Discounts & Promotions,Maybe,No,Sometimes,Yes,Mid,No,Yes,2,Online Ads,Cashback Offers,Groceries,1,2
+55+,Twice a week,1500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Maybe,Maybe,4,Online Ads,Cashback Offers,Groceries,1,5
+55+,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Maybe,Maybe,5,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Once a week,750,Location & Service,Maybe,No,Yes,Maybe,End,Yes,Yes,2,Online Ads,Buy One Get One Free,Essentials,1,2
+55+,Daily,750,Product Quality,Yes,No,Yes,Yes,Start,Maybe,Maybe,4,Online Ads,Cashback Offers,Groceries,1,2
+25-34,Daily,1500,Price,Maybe,No,Yes,Maybe,End,No,No,4,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Once a month,7500,Discounts & Promotions,Maybe,No,Yes,Yes,End,Maybe,Maybe,5,Traditional Media,Cashback Offers,Groceries,1,5
+35-44,Twice a month,3500,Freshness of Items,Yes,No,Yes,Yes,Mid,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,5
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,5
+35-44,Once a week,1500,Product Quality,Yes,Yes,Sometimes,Yes,Mid,Yes,No,5,Online Ads,Buy One Get One Free,Essentials,1,2
+45-54,Once a week,750,Discounts & Promotions,Yes,No,Yes,Maybe,Mid,No,No,4,Traditional Media,Buy One Get One Free,Essentials,1,1
+35-44,Twice a month,7500,Discounts & Promotions,Yes,No,Yes,Maybe,Anytime,No,Maybe,5,Online Ads,Buy One Get One Free,Groceries,1,5
+35-44,Once a month,3500,Discounts & Promotions,Maybe,No,No,Maybe,Start,Yes,No,5,Online Ads,Buy One Get One Free,Essentials,1,2
+45-54,Once a month,3500,Discounts & Promotions,Maybe,No,Sometimes,Maybe,Start,No,Yes,4,Online Ads,Buy One Get One Free,Essentials,1,1
+35-44,Twice a week,3500,Freshness of Items,Maybe,No,Yes,Maybe,Anytime,Yes,No,3,Direct Marketing,Buy One Get One Free,Essentials,1,1
+35-44,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,No,No,5,Online Ads,Flat Discount,Processed Food,1,3
+35-44,Twice a month,750,Freshness of Items,Maybe,Yes,Sometimes,Maybe,Mid,Maybe,No,5,Online Ads,Cashback Offers,Processed Food,1,3
+25-34,Once a month,3500,Discounts & Promotions,Yes,No,Yes,Yes,Mid,Yes,Maybe,4,Online Ads,Cashback Offers,Essentials,1,2
+18-24,Once a week,750,Discounts & Promotions,Yes,No,Yes,Maybe,Mid,Yes,Yes,5,Online Ads,Flat Discount,Processed Food,1,1
+18-24,Once a week,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,Yes,Maybe,5,Online Ads,Flat Discount,Processed Food,1,1
+45-54,Once a month,3500,Price,Maybe,No,No,No,Anytime,Maybe,Maybe,4,Online Ads,Buy One Get One Free,Essentials,1,1
+35-44,Once a month,1500,Freshness of Items,No,No,Yes,Maybe,Mid,No,Maybe,4,Direct Marketing,Flat Discount,Essentials,1,1
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,No,Maybe,Anytime,Maybe,Maybe,4,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Once a week,750,Product Quality,Yes,Yes,Yes,Yes,Start,Yes,Yes,4,Online Ads,Flat Discount,Groceries,1,1
+25-34,Once a week,750,Discounts & Promotions,Yes,Yes,Yes,No,Start,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Once a month,3500,Discounts & Promotions,Yes,No,Sometimes,Yes,Mid,Yes,No,4,Traditional Media,Loyalty Rewards,Groceries,1,3
+25-34,Once a week,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Mid,Yes,Yes,4,Online Ads,Cashback Offers,Groceries,1,2
+25-34,Once a week,750,Freshness of Items,Maybe,No,Yes,Yes,Mid,No,No,4,Online Ads,Cashback Offers,Processed Food,1,3
+25-34,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,Maybe,4,Online Ads,Loyalty Rewards,Groceries,1,3
+18-24,Once a month,3500,Freshness of Items,Yes,Yes,Yes,Yes,End,No,No,4,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Twice a month,7500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Maybe,Maybe,4,Online Ads,Cashback Offers,Groceries,1,5
+55+,Once a month,750,Price,Yes,Yes,Yes,Maybe,Anytime,No,Maybe,4,Online Ads,Buy One Get One Free,Groceries,1,1
+25-34,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,No,Maybe,5,Direct Marketing,Buy One Get One Free,Processed Food,1,2
+35-44,Once a month,3500,Product Quality,Yes,Yes,Yes,Maybe,Start,Yes,Yes,5,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Twice a week,3500,Freshness of Items,Maybe,Yes,No,Maybe,Anytime,No,Maybe,5,Direct Marketing,Cashback Offers,Processed Food,1,1
+18-24,Twice a month,750,Discounts & Promotions,No,Yes,Yes,Maybe,Anytime,Maybe,Maybe,5,Direct Marketing,Cashback Offers,Groceries,1,4
+55+,Twice a month,7500,Discounts & Promotions,Yes,Yes,Yes,No,Anytime,No,Maybe,5,Online Ads,Cashback Offers,Groceries,1,3
+45-54,Twice a week,3500,Price,Yes,Yes,Sometimes,No,Start,Yes,No,3,Online Ads,Buy One Get One Free,Processed Food,1,3
+35-44,Once a week,750,Product Quality,Yes,Yes,Yes,Yes,End,Yes,No,4,Direct Marketing,Buy One Get One Free,Groceries,1,3
+35-44,Once a month,3500,Price,Yes,No,Yes,Maybe,Mid,Maybe,Maybe,4,Direct Marketing,Buy One Get One Free,Processed Food,1,3
+45-54,Once a month,3500,Freshness of Items,Yes,Yes,Yes,Yes,Start,Yes,Yes,5,Online Ads,Loyalty Rewards,Groceries,1,1
+25-34,Once a week,1500,Product Quality,Maybe,Yes,Sometimes,Maybe,Mid,No,No,2,Traditional Media,Loyalty Rewards,Processed Food,1,1
+35-44,Twice a week,3500,Freshness of Items,No,Yes,No,No,End,Maybe,Maybe,3,Direct Marketing,Buy One Get One Free,Processed Food,1,1
+45-54,Once a month,7500,Price,Yes,Yes,Yes,Maybe,Anytime,Yes,Yes,4,Online Ads,Cashback Offers,Essentials,1,1
+55+,Twice a month,750,Location & Service,Maybe,Yes,Yes,Maybe,Anytime,Yes,Yes,4,Online Ads,Cashback Offers,Groceries,1,2
+55+,Twice a month,750,Location & Service,Maybe,No,Yes,Maybe,Anytime,Maybe,Maybe,5,Online Ads,Cashback Offers,Essentials,1,1
+25-34,Daily,1500,Product Quality,Maybe,Yes,Sometimes,Maybe,Mid,No,No,4,Traditional Media,Loyalty Rewards,Groceries,1,1
+18-24,Daily,1500,Price,Yes,Yes,Yes,Maybe,End,No,Yes,5,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Twice a week,3500,Freshness of Items,Yes,Yes,Sometimes,Maybe,End,No,Maybe,4,Direct Marketing,Buy One Get One Free,Processed Food,1,1
+18-24,Once a week,1500,Discounts & Promotions,Maybe,Yes,Yes,Yes,Mid,No,No,4,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Once a month,3500,Freshness of Items,Maybe,Yes,Sometimes,Maybe,Anytime,Maybe,Yes,4,Online Ads,Buy One Get One Free,Processed Food,1,1
+45-54,Twice a week,3500,Freshness of Items,Yes,Yes,Yes,Maybe,Mid,Yes,No,3,Online Ads,Cashback Offers,Groceries,1,4
+45-54,Twice a week,3500,Price,Yes,No,Sometimes,No,Mid,Maybe,Maybe,3,Online Ads,Buy One Get One Free,Processed Food,1,3
+45-54,Once a month,3500,Price,No,Yes,Sometimes,Maybe,End,Maybe,Maybe,3,Traditional Media,Buy One Get One Free,Processed Food,1,1
+18-24,Once a month,1500,Freshness of Items,Maybe,No,Sometimes,Maybe,Anytime,Maybe,Maybe,3,Online Ads,Cashback Offers,Essentials,1,1
+45-54,Once a week,3500,Discounts & Promotions,No,No,No,Yes,Mid,No,Maybe,2,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Twice a week,1500,Price,Yes,No,No,Maybe,Mid,No,Maybe,3,Online Ads,Buy One Get One Free,Processed Food,1,4
+35-44,Once a month,1500,Freshness of Items,Maybe,No,Sometimes,Maybe,End,Maybe,No,4,Online Ads,Buy One Get One Free,Essentials,1,1
+35-44,Daily,7500,Discounts & Promotions,No,Yes,Yes,Yes,End,Yes,Maybe,5,Online Ads,Buy One Get One Free,Essentials,1,2
+35-44,Once a month,3500,Price,Maybe,No,Sometimes,Maybe,End,Maybe,Maybe,4,Online Ads,Buy One Get One Free,Processed Food,1,1
+45-54,Daily,7500,Discounts & Promotions,No,Yes,Yes,No,End,Maybe,No,5,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Twice a month,750,Freshness of Items,No,No,Yes,No,Mid,Maybe,Maybe,5,Online Ads,Buy One Get One Free,Groceries,1,4
+45-54,Once a week,750,Freshness of Items,Maybe,Yes,No,Yes,End,Maybe,No,4,Online Ads,Cashback Offers,Processed Food,1,3
+25-34,Twice a month,750,Product Quality,Yes,Yes,Yes,Maybe,Mid,Maybe,Maybe,4,Online Ads,Buy One Get One Free,Groceries,1,1
+35-44,Once a month,3500,Price,No,Yes,Yes,No,Mid,No,Maybe,4,Online Ads,Buy One Get One Free,Essentials,1,1
+35-44,Twice a week,1500,Product Quality,Maybe,No,Sometimes,Maybe,Mid,No,No,4,Traditional Media,Loyalty Rewards,Processed Food,1,1
+35-44,Twice a week,750,Discounts & Promotions,Yes,Yes,Sometimes,Maybe,Mid,No,No,4,Traditional Media,Cashback Offers,Processed Food,1,1
+35-44,Twice a week,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,4
+35-44,Twice a month,3500,Freshness of Items,Maybe,No,Yes,Maybe,Anytime,Yes,Yes,5,Online Ads,Cashback Offers,Essentials,1,2
+35-44,Once a month,3500,Price,Maybe,No,Sometimes,Maybe,Start,No,Maybe,4,Online Ads,Flat Discount,Essentials,1,1
+35-44,Daily,750,Product Quality,Maybe,Yes,Sometimes,Maybe,Start,No,Yes,5,Online Ads,Cashback Offers,Groceries,1,3
+45-54,Once a week,7500,Price,Maybe,Yes,Sometimes,Yes,Anytime,No,Maybe,1,Online Ads,Cashback Offers,Essentials,1,1
+35-44,Twice a week,3500,Freshness of Items,Maybe,Yes,Sometimes,Maybe,Start,No,Maybe,4,Traditional Media,Flat Discount,Processed Food,1,1
+45-54,Daily,750,Price,No,Yes,Yes,Maybe,End,Maybe,Yes,4,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Twice a week,3500,Price,No,Yes,Yes,Maybe,Mid,Yes,No,4,Direct Marketing,Buy One Get One Free,Processed Food,1,1
+55+,Once a month,3500,Price,Yes,No,Sometimes,No,Start,Maybe,Yes,3,Direct Marketing,Buy One Get One Free,Processed Food,1,2
+45-54,Once a month,7500,Freshness of Items,Yes,No,Yes,No,Start,Maybe,No,4,Online Ads,Buy One Get One Free,Processed Food,1,3
+25-34,Twice a month,3500,Freshness of Items,Maybe,Yes,Sometimes,No,Mid,Maybe,No,4,Traditional Media,Buy One Get One Free,Processed Food,1,1
+35-44,Once a week,1500,Freshness of Items,Maybe,No,No,Maybe,Mid,No,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,3
+35-44,Twice a week,3500,Price,Maybe,No,Sometimes,Maybe,Mid,No,No,5,Traditional Media,Flat Discount,Processed Food,1,1
+35-44,Twice a week,1500,Freshness of Items,Yes,Yes,Sometimes,Maybe,Start,Yes,Maybe,4,Online Ads,Flat Discount,Groceries,1,1
+45-54,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Mid,Maybe,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,3
+25-34,Once a month,3500,Price,Maybe,Yes,Yes,No,End,No,No,5,Online Ads,Flat Discount,Groceries,1,1
+35-44,Once a month,3500,Freshness of Items,Maybe,Yes,No,Maybe,Start,No,Maybe,5,Online Ads,Cashback Offers,Groceries,1,5
+18-24,Twice a week,750,Product Quality,Maybe,Yes,No,Yes,End,No,Maybe,5,Online Ads,Buy One Get One Free,Processed Food,1,1
+35-44,Once a month,1500,Discounts & Promotions,Yes,Yes,Sometimes,No,End,Maybe,No,5,Online Ads,Cashback Offers,Processed Food,1,1
+18-24,Daily,750,Location & Service,No,No,Yes,Maybe,Anytime,Yes,Maybe,5,Online Ads,Cashback Offers,Essentials,1,1
+18-24,Once a month,3500,Price,No,Yes,No,No,Mid,Yes,No,5,Traditional Media,Loyalty Rewards,Processed Food,1,1
+45-54,Once a month,7500,Price,Maybe,No,Yes,Yes,End,Yes,Maybe,5,Direct Marketing,Flat Discount,Processed Food,1,1
+45-54,Twice a month,750,Freshness of Items,Maybe,No,No,Maybe,Anytime,Maybe,Maybe,4,Online Ads,Cashback Offers,Groceries,1,4
+35-44,Twice a month,7500,Freshness of Items,Maybe,No,Sometimes,Yes,End,No,Maybe,5,Traditional Media,Buy One Get One Free,Processed Food,1,1
+35-44,Twice a week,3500,Price,Yes,Yes,Yes,Maybe,End,Maybe,Maybe,5,Traditional Media,Buy One Get One Free,Essentials,1,1
+45-54,Twice a week,3500,Discounts & Promotions,Maybe,Yes,Sometimes,Yes,Start,No,Yes,5,Traditional Media,Cashback Offers,Processed Food,1,1
+35-44,Once a week,1500,Product Quality,Maybe,No,Sometimes,Maybe,Start,Yes,Yes,5,Direct Marketing,Buy One Get One Free,Essentials,1,1
+35-44,Twice a week,1500,Price,Maybe,Yes,Yes,Maybe,Start,Yes,Yes,5,Traditional Media,Loyalty Rewards,Processed Food,1,1
+25-34,Once a week,1500,Product Quality,Yes,Yes,Yes,Maybe,Mid,Maybe,No,5,Online Ads,Buy One Get One Free,Groceries,1,5
+35-44,Twice a week,750,Product Quality,Yes,Yes,No,Maybe,Mid,Maybe,Maybe,5,Direct Marketing,Cashback Offers,Processed Food,1,1
+35-44,Twice a week,3500,Price,Yes,Yes,Sometimes,No,End,No,Maybe,3,Direct Marketing,Cashback Offers,Groceries,1,3
+45-54,Once a week,1500,Product Quality,Maybe,Yes,Sometimes,Maybe,Mid,Maybe,No,5,Traditional Media,Buy One Get One Free,Processed Food,1,1
+25-34,Once a week,750,Freshness of Items,Maybe,Yes,Sometimes,No,Start,No,Yes,5,Direct Marketing,Flat Discount,Essentials,1,1
+25-34,Once a week,3500,Product Quality,Maybe,Yes,Sometimes,Maybe,Mid,Maybe,Yes,5,Direct Marketing,Buy One Get One Free,Processed Food,1,1
+18-24,Once a week,7500,Freshness of Items,No,No,Sometimes,No,End,Maybe,No,5,Traditional Media,Buy One Get One Free,Processed Food,1,1
+25-34,Twice a week,1500,Freshness of Items,Maybe,Yes,Sometimes,Maybe,Mid,Yes,Maybe,5,Online Ads,Loyalty Rewards,Processed Food,1,1
+35-44,Twice a week,3500,Freshness of Items,Maybe,No,Sometimes,Yes,Mid,Maybe,Maybe,5,Online Ads,Buy One Get One Free,Processed Food,1,1
+18-24,Twice a week,1500,Product Quality,Maybe,Yes,Yes,Yes,Start,Yes,No,5,Online Ads,Buy One Get One Free,Groceries,1,1
+45-54,Twice a week,3500,Discounts & Promotions,Yes,No,Sometimes,Yes,End,Yes,No,5,Traditional Media,Buy One Get One Free,Groceries,1,1
+25-34,Once a week,1500,Product Quality,Maybe,Yes,Sometimes,Maybe,End,No,No,5,Traditional Media,Buy One Get One Free,Processed Food,1,1
+18-24,Once a week,750,Product Quality,Maybe,No,Sometimes,Maybe,End,No,Yes,5,Direct Marketing,Loyalty Rewards,Processed Food,1,1
+55+,Daily,3500,Location & Service,Maybe,Yes,Sometimes,Maybe,End,Yes,Yes,1,Traditional Media,Cashback Offers,Groceries,1,3
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,Yes,2,Online Ads,Cashback Offers,Groceries,1,3
+35-44,Twice a week,1500,Freshness of Items,Yes,Yes,No,Maybe,Mid,No,No,4,Online Ads,Cashback Offers,Groceries,1,5
+25-34,Once a week,1500,Price,Maybe,No,Sometimes,Maybe,End,No,No,3,Direct Marketing,Cashback Offers,Groceries,1,1
+35-44,Daily,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,Yes,3,Online Ads,Cashback Offers,Processed Food,1,1
+35-44,Once a month,3500,Location & Service,Yes,Yes,Yes,Yes,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,3
+25-34,Twice a week,1500,Price,Yes,Yes,Yes,Yes,Anytime,Yes,Maybe,3,Online Ads,Buy One Get One Free,Groceries,1,3
+25-34,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,3
+55+,Daily,750,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,3,Online Ads,Cashback Offers,Processed Food,1,3
+55+,Once a month,1500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,3
+55+,Twice a month,7500,Price,Yes,No,Yes,No,Anytime,Yes,Maybe,4,Online Ads,Buy One Get One Free,Groceries,1,5
+55+,Once a month,3500,Freshness of Items,Yes,Yes,Yes,Yes,Anytime,No,No,4,Online Ads,Cashback Offers,Groceries,1,3
+55+,Once a month,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,Start,No,Maybe,4,Online Ads,Buy One Get One Free,Groceries,1,5
+35-44,Once a month,3500,Discounts & Promotions,Yes,No,Yes,Maybe,Anytime,Yes,Maybe,4,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,3,Online Ads,Cashback Offers,Groceries,1,2
+18-24,Once a month,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Twice a week,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Maybe,Maybe,3,Online Ads,Cashback Offers,Groceries,1,1
+25-34,Once a month,750,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,No,Maybe,3,Online Ads,Cashback Offers,Groceries,1,2
+45-54,Once a month,1500,Location & Service,No,No,Yes,Maybe,End,No,No,2,Online Ads,Loyalty Rewards,Essentials,1,2
+25-34,Once a month,3500,Location & Service,Maybe,No,Sometimes,Maybe,Anytime,No,No,2,Online Ads,Loyalty Rewards,Essentials,1,2
+25-34,Twice a week,1500,Location & Service,Maybe,No,Sometimes,Maybe,Anytime,Maybe,Maybe,5,Online Ads,Loyalty Rewards,Groceries,1,2
+45-54,Twice a month,7500,Location & Service,Yes,No,Yes,Maybe,Anytime,Maybe,Maybe,5,Online Ads,Buy One Get One Free,Groceries,1,2
+25-34,Twice a month,7500,Discounts & Promotions,Yes,Yes,Sometimes,Maybe,Anytime,Maybe,Maybe,5,Online Ads,Cashback Offers,Groceries,1,5
+45-54,Once a month,1500,Location & Service,Maybe,No,Sometimes,Maybe,Anytime,No,Maybe,4,Online Ads,Flat Discount,Groceries,1,1
+45-54,Daily,750,Discounts & Promotions,Yes,Yes,Yes,No,Mid,No,No,3,Online Ads,Cashback Offers,Processed Food,1,1
+35-44,Once a week,750,Discounts & Promotions,Maybe,No,No,Maybe,Start,No,No,4,Direct Marketing,Loyalty Rewards,Groceries,1,2
+35-44,Once a week,750,Location & Service,Maybe,No,Yes,Yes,Start,No,Maybe,5,Online Ads,Flat Discount,Groceries,1,1
+35-44,Once a week,750,Discounts & Promotions,Maybe,Yes,Sometimes,No,Anytime,No,Yes,4,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Daily,750,Location & Service,No,No,Yes,Maybe,Mid,No,Maybe,4,Online Ads,Buy One Get One Free,Groceries,1,1
+55+,Twice a week,1500,Product Quality,Maybe,No,Yes,Maybe,Mid,Yes,No,1,Direct Marketing,Buy One Get One Free,Processed Food,1,1
+35-44,Twice a month,7500,Freshness of Items,Maybe,No,No,No,End,No,No,2,Online Ads,Flat Discount,Processed Food,1,1
+55+,Once a month,1500,Price,No,Yes,Sometimes,Yes,Mid,No,Maybe,4,Online Ads,Cashback Offers,Groceries,1,1
+25-34,Daily,1500,Discounts & Promotions,Yes,Yes,Yes,Maybe,End,No,Yes,4,Traditional Media,Loyalty Rewards,Processed Food,1,1
+45-54,Twice a week,3500,Freshness of Items,Maybe,No,No,Maybe,Mid,No,No,3,Direct Marketing,Flat Discount,Processed Food,1,1
+18-24,Once a week,7500,Freshness of Items,No,No,Sometimes,Maybe,Mid,Maybe,Yes,5,Traditional Media,Buy One Get One Free,Processed Food,1,1
+35-44,Once a month,750,Discounts & Promotions,Maybe,Yes,Yes,Yes,Mid,Maybe,No,4,Online Ads,Buy One Get One Free,Groceries,1,1
+25-34,Once a week,1500,Freshness of Items,Maybe,Yes,Yes,Maybe,Start,No,Yes,5,Online Ads,Buy One Get One Free,Groceries,1,1
+25-34,Twice a week,1500,Discounts & Promotions,Maybe,Yes,Yes,Yes,Anytime,No,Yes,3,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Twice a week,3500,Discounts & Promotions,Yes,Yes,Sometimes,Yes,Mid,Maybe,No,5,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Daily,750,Discounts & Promotions,Yes,Yes,Sometimes,Maybe,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,1
+35-44,Once a week,750,Discounts & Promotions,Yes,Yes,Sometimes,Maybe,End,Yes,No,4,Online Ads,Cashback Offers,Groceries,1,1
+55+,Twice a month,7500,Discounts & Promotions,Yes,Yes,Yes,Yes,Anytime,Yes,Maybe,5,Online Ads,Cashback Offers,Groceries,1,2
+35-44,Once a week,3500,Discounts & Promotions,Yes,Yes,Yes,Maybe,Anytime,Yes,No,5,Online Ads,Cashback Offers,Groceries,1,2
