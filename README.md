@@ -4,4 +4,4 @@ This project analyzes how different promotional strategies influence customer pu
 
 The findings reveal that Support Vector Classifier achieved the highest accuracy (98.7%) for classifying customer responsiveness to promotions. Insights from this study help businesses optimize promotional campaigns by targeting the most effective days and time slots.
 
-DOI: (10.48175/IJARSCT-23341)[https://ijarsct.co.in/Paper23341.pdf]
+DOI: 10.48175/IJARSCT-23341
