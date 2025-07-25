@@ -1,4 +1,4 @@
-# Impact of Disconts & Promotion Analysis Machine Learning
+# Impact of Disconts & Promotion Analysis Using Machine Learning
 
 This project analyzes how different promotional strategies influence customer purchasing decisions. It uses a dataset collected through a customer survey (250 responses, 14 features) and applies classification and regression models such as Support Vector Classifier, Random Forest, KNN, and Linear Regression.
 
